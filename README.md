@@ -1,4 +1,10 @@
+![DashAIO banner](https://i.imgur.com/GhSDIlo.png "DashAIO banner")
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on web3 automation (@DashAIO)
+- 👯 I’m looking to collaborate on bot/automation software
+- 🌱 I’m currently learning ETH
 
 <!--
 **desperatee/desperatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
