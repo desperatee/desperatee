@@ -1,4 +1,4 @@
-![DashAIO banner](https://images-ext-2.discordapp.net/external/N5HFVv_jmKuFHtvx1ybgkrenzR4uUObdZC0ZkJrfKXI/https/i.imgur.com/GhSDIlo.png?width=960&height=320 "DashAIO banner")
+![DashAIO banner](https://i.imgur.com/GhSDIlo.png "DashAIO banner")
 
 ### Hi there 👋
 
