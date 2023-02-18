@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [@DashAIO(https://twitter.com/dash_aio))
+- 🔭 I’m currently working on ([@DashAIO)(https://twitter.com/dash_aio))
 - 👯 I’m looking to collaborate on bot/automation software
 - 🌱 I’m currently learning ETH
 - 📫 Reach me on [Twitter](https://twitter.com/p4tryk___)
