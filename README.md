@@ -1,7 +1,7 @@
 ![DashAIO banner](https://i.imgur.com/GhSDIlo.png "DashAIO banner")
 
 ### Hi there 👋
-I'm a 16 years old backend developer from Poland
+I'm an 18 years old backend developer from Poland
 
 # Languages:
 - Golang
