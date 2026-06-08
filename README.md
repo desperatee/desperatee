@@ -23,12 +23,6 @@ I am a backend engineer with over 4 years of professional experience, including 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
-### Projects
-
-<a href="https://x.com/dash_aio"><img height="137px" src="https://i.imgur.com/GhSDIlo.png" /></a>
-
-Multi-blockchain automation (i.e "botting") software with a userbase peaking at 1,250+ users
-
 ### Currently working on
 
 <a href="https://github.com/status403com"><img height="140px" src="https://raw.githubusercontent.com/status403com/.github/refs/heads/main/profile/banner.png" /></a>
@@ -38,3 +32,9 @@ Development house specialized in web scraping, reverse engineering & automation 
 #### Want to outsource?
 
 🌐 [status403.com](https://status403.com) · 📩 [Book a Free Call](https://status403.com) · 💾 [GitHub](https://github.com/status403com)
+
+### Projects
+
+<a href="https://x.com/dash_aio"><img height="137px" src="https://i.imgur.com/GhSDIlo.png" /></a>
+
+Multi-blockchain automation (i.e "botting") software with a userbase peaking at 1,250+ users
