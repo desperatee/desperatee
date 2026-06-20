@@ -1,6 +1,12 @@
 # Hello there 👋
 
-I am a backend engineer with over 4 years of professional experience, including a part-time role at Falcodrin and founding DashAIO. I have hands-on experience designing and building production-grade infrastructure and codebases from the ground up, managing databases, integrating multiple data sources, and delivering reliable software at scale to 1,250+ users. I am comfortable working across the stack with Golang, TypeScript, Python, Node.js, PostgreSQL, MongoDB, AWS, Azure, Docker and Kubernetes as well as having dabbled in React and Tailwind. I thrive in fast-paced environments and enjoy tackling complex backend challenges across a wide range of domains.
+I am a backend engineer with 6 years of experience designing, building, and scaling automation infrastructure across web, cloud, and Web3 environments, including 4 years in professional, full-time capacities since founding DashAIO in 2022. I currently co-found status403, where I lead technical strategy from early-stage architecture through production delivery for complex automation and data systems. Previously, I founded DashAIO, a multi-blockchain automation platform that grew to serve 1,250+ active users, and worked as a full-stack developer on Falcodrin's automation platform.
+ 
+My core strengths are automation software development, reverse engineering complex or undocumented systems to build reliable integrations, and working with Web3 smart contracts and infrastructure. I'm comfortable owning a project end-to-end — designing APIs (REST and gRPC), architecting and managing databases (PostgreSQL, SQLite, MongoDB), administering Linux systems, and deploying containerized services with Docker and Kubernetes across AWS and Azure.
+ 
+Primary languages: Golang, Python, and TypeScript/JavaScript, with hands-on experience in React and Node.js.
+ 
+I've built and operated production-grade systems under demanding technical and timing constraints, consistently turning ambiguous, high-friction requirements into dependable software. I enjoy working directly with clients to scope and deliver solutions, and I thrive in fast-paced environments where precision and adaptability matter most.
 
 ### Languages
 
