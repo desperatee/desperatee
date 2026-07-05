@@ -33,6 +33,7 @@ I've built and operated production-grade systems under demanding technical and t
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
 ### Currently working on
