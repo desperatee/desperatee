@@ -16,14 +16,21 @@ I've built and operated production-grade systems under demanding technical and t
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions&logoColor=FFFFFF)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus)
+![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=sentry)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
