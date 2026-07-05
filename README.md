@@ -35,6 +35,8 @@ I've built and operated production-grade systems under demanding technical and t
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Claude](https://img.shields.io/badge/-Claude-000?&logo=claude)
+![MCP](https://img.shields.io/badge/-MCP-000?&logo=modelcontextprotocol)
 
 ### Currently working on
 
